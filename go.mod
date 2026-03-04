@@ -1,6 +1,6 @@
 module github.com/luxfi/benchlist
 
-go 1.25.5
+go 1.26
 
 require (
 	github.com/luxfi/consensus v1.22.53
