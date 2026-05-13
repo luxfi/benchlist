@@ -1,6 +1,6 @@
 module github.com/luxfi/benchlist
 
-go 1.26.1
+go 1.26.3
 
 require (
 	github.com/luxfi/consensus v1.22.53
@@ -16,7 +16,7 @@ require (
 	github.com/gorilla/rpc v1.2.1 // indirect
 	github.com/holiman/uint256 v1.3.2 // indirect
 	github.com/luxfi/crypto v1.17.38 // indirect
-	github.com/luxfi/math v1.2.2 // indirect
+	github.com/luxfi/math v1.4.0 // indirect
 	github.com/luxfi/math/big v0.1.0 // indirect
 	github.com/luxfi/mock v0.1.0 // indirect
 	github.com/luxfi/sampler v1.0.0 // indirect
