@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Benchlist
+# Hanzo Benchlist
 
 ## Overview
 Go module: github.com/luxfi/benchlist
