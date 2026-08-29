@@ -25,6 +25,8 @@ require (
 	github.com/luxfi/mock v0.1.0 // indirect
 	github.com/luxfi/sampler v1.0.0 // indirect
 	github.com/luxfi/utils v1.1.0 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/prometheus/client_golang v1.23.2 // indirect
